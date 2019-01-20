@@ -41,3 +41,7 @@ print(value1 * value2)
 yourFavNumber = input('Enter your fav number\n')
 bffBirthday = int(yourFavNumber) + 16
 print('BFF bday is',bffBirthday)
+
+#Lists
+countries = ['India', 'USA', 'NZ', 'AUS', 'Pakistan']
+print(countries)
