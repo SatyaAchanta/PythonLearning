@@ -1,6 +1,6 @@
 import sys
 
-# variables
+# Variables, Expression and Statements
 message = 'This is Python 3.7.x'
 print(message)
 
